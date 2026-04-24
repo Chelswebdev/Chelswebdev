@@ -1,21 +1,24 @@
-# Hi, I'm Chelsea!
+# Chelsea DCosta - Portfolio
+##   About
+Hi , I'm Chelsea! I am a recent IT grad from University of Central Florida. Throughout my academic journey, I have built a strong foundation in IT concepts and technologies. I’m passionate about continuous learning and improving my skills. 
+ I am interested in data analysis and data visualization and I enjoy working with data to find patterns and present insights clearly.
+I’m currently looking for opportunities where I can apply my academic knowledge, gain hands-on experience, collaborate with others, and grow as an IT professional. 
 
-I am a recent graduate interested in data analysis and data visualization. I enjoy working with data to find patterns and present insights clearly.
-
-## Skills
-
-* Data Analysis
-* Data Visualization
-* Microsoft Power BI
 
 ##  Projects
 
-### Music Data Analysis Dashboard
+### Music Data Analysis Dashboard    
 
 Analyzed a music dataset to understand what influences song popularity using Power BI.
 
-👉 https://github.com/Chelswebdev/music-analysis-powerbi
+* https://github.com/Chelswebdev/music-analysis-powerbi
 
 ---
 
-More projects coming soon.
+
+
+## Contacts
+* LinkedIn: linkedin.com/in/chelseadcosta
+* Email: dcosta.chelsea20@gmail.com
+
+
