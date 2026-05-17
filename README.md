@@ -7,7 +7,10 @@ I’m currently looking for opportunities where I can apply my academic knowledg
 
 
 ##  Projects
+### HR Data Analysis Dashboard   
 
+
+---
 ### Music Data Analysis Dashboard    
 
 Analyzed a music dataset to understand what influences song popularity using Power BI.
@@ -16,9 +19,7 @@ Analyzed a music dataset to understand what influences song popularity using Pow
 
 ---
 
-### HR Data Analysis Dashboard    
 
----
 ## Contacts
 * LinkedIn: linkedin.com/in/chelseadcosta
 * Email: dcosta.chelsea20@gmail.com
