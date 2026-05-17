@@ -2,7 +2,7 @@
 ##   About
 Hi , I'm Chelsea! I am a recent Information Technology graduate from the University of Central Florida with hands-on experience in data analysis, Power BI dashboard development, and prompt engineering for AI-assisted analytics.
 
-I enjoy working with data to find patterns, tell stories, and support better decision making. I am passionate about turning raw, messy data into clear visuals and insights that help people make informed decisions.
+I enjoy working with data to find patterns, tell stories, and support better decision making. I am passionate about turning raw data into visuals that make complex information simple and actionable.
 
 I am currently seeking a data analyst role where I can contribute to a team, grow my technical skills, and help organizations make sense of their data.
 
