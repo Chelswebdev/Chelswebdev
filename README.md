@@ -8,7 +8,7 @@ I am currently looking for opportunities in data analytics where I can contribut
 
 ##  Projects
 ### HR Data Analysis Dashboard   
-
+* https://github.com/Chelswebdev/hr-analytics-dashboard-excel
 
 ---
 ### Music Data Analysis Dashboard    
