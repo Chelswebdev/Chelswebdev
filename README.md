@@ -22,6 +22,6 @@ Analyzed a music dataset to understand what influences song popularity using Pow
 
 ## Contacts
 * LinkedIn: linkedin.com/in/chelseadcosta
-* Email: dcosta.chelsea20@gmail.com
+
 
 
