@@ -9,7 +9,7 @@ I am currently looking for opportunities in data analytics where I can contribut
 ##  Projects
 
 ### Florida Real Estate Dashboard   
-* https://github.com/Chelswebdev/hr-analytics-dashboard-excel
+* https://github.com/Chelswebdev/Florida-RealEstate-Dashboard
 
 ---
 
