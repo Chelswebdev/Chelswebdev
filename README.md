@@ -7,6 +7,12 @@ I enjoy working with data to find patterns, tell stories, and support better dec
 I am currently looking for opportunities in data analytics where I can contribute to a team, grow my technical skills, and help organizations understand data clearly.
 
 ##  Projects
+
+### Florida Real Estate Dashboard   
+* https://github.com/Chelswebdev/hr-analytics-dashboard-excel
+
+---
+
 ### HR Data Analysis Dashboard   
 * https://github.com/Chelswebdev/hr-analytics-dashboard-excel
 
